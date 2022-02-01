@@ -2,7 +2,7 @@
 
 ## Features 🔥
 
-- [x] React Native Navigation
+- [x] React Native Navigation (V6)
   - [x] Stack Navigator
   - [x] Tab Navigator
 
