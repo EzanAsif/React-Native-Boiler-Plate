@@ -1,6 +1,6 @@
 # React Native Boiler Plate
 
-## Features🔥
+## Features 🔥
 
 - [x] React Native Navigation
   - [x] Stack Navigator
