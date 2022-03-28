@@ -12,4 +12,4 @@
   - [x] Conditional routing
 
 - [x] React Native Vector Icons
-"# X-Dividend" 
+
